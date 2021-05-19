@@ -42,9 +42,9 @@ PS: About the TinkerCard board, you can download and load it in the online [Tink
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/yann1508>
-            <img src=https://avatars.githubusercontent.com/u/72026657?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=YannYAYI/>
+            <img src=https://avatars.githubusercontent.com/u/72026657?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=YannYAI/>
             <br />
-            <sub style="font-size:14px"><b>Yann YAYÏ</b></sub>
+            <sub style="font-size:14px"><b>Yann YAÏ</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
